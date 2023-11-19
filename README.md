@@ -15,3 +15,4 @@ Pattern Generations:
 12.[Triangle star pattern]
 13.[pattern of numbers]
 14.[Pattern of Alphabets]
+
